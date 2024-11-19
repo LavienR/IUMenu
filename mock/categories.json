@@ -1,0 +1,38 @@
+[
+  {
+    "id": "coffee",
+    "name": "Cà phê",
+    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-coffee.svg"
+  },
+  {
+    "id": "cacao",
+    "name": "Cacao",
+    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-matcha.svg"
+  },
+  {
+    "id": "lipton",
+    "name": "Lipton",
+    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-food.svg"
+  },
+  {
+    "id": "tea",
+    "name": "Trà",
+    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-milktea.svg"
+  },
+  {
+    "id": "soda",
+    "name": "Soda",
+    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-drinks.svg"
+  },
+
+  {
+    "id": "juice",
+    "name": "Nước ép",
+    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-juice.svg"
+  },
+  {
+    "id": "food",
+    "name": "Ăn nhẹ",
+    "icon": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/category-bread.svg"
+  }
+]
